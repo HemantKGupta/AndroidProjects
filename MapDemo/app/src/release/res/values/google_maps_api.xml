@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=1D:46:96:1F:CF:1C:14:85:13:D9:C3:A3:B4:B3:60:F8:3E:D9:8E:B4%3Bcom.ebookfrenzy.mapdemo
+
+    You can also add your credentials to an existing key, using this line:
+    1D:46:96:1F:CF:1C:14:85:13:D9:C3:A3:B4:B3:60:F8:3E:D9:8E:B4;com.ebookfrenzy.mapdemo
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        YOUR_KEY_HERE
+    </string>
+</resources>
